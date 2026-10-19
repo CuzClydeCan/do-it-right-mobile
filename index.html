@@ -451,7 +451,7 @@ footer.site a{color:#d6dae0}
       <div class="fake">Card number</div>
       <div class="row"><div class="fake">MM / YY</div><div class="fake">CVC</div></div>
       <button class="btn" disabled>Pay · Demo</button>
-      <p>This is a preview of the checkout. In the live site this button opens Marc's secure Stripe payment page. No card is collected and nothing is charged here.</p>
+      <p>This is a preview of the checkout. In the live site this button opens Marc's secure Square (or Stripe) checkout page, and the money goes straight to his account. No card is collected and nothing is charged here.</p>
     </div>
   </div>
 </div>
@@ -460,8 +460,8 @@ footer.site a{color:#d6dae0}
 /* ===== Live setup: fill these in when Marc approves (see README.md) ===== */
 const CONFIG={
   FORM_ENDPOINT:"",          // e.g. https://formspree.io/f/xxxxxxx  (empty = text/email hand-off)
-  DEPOSIT_LINK:"",           // Stripe Payment Link, e.g. https://buy.stripe.com/...
-  INVOICE_LINK:"",           // Stripe Payment Link with "customer chooses amount", or leave empty and send Stripe invoices
+  DEPOSIT_LINK:"",           // Square payment link (square.link/u/...) or Stripe Payment Link (buy.stripe.com/...)
+  INVOICE_LINK:"",           // Square payment link with "allow buyer to enter amount" (or Stripe "customer chooses what to pay")
   SMS_TO:"+18323052630",
   EMAIL_TO:"doitrightmobile@gmail.com"
 };
