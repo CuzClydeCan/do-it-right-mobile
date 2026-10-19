@@ -1,1 +1,491 @@
-★“”×·–$$
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>DO IT RIGHT Mobile Auto Mechanic | Houston Mobile Mechanic – We Come to You</title>
+<meta name="description" content="Houston mobile mechanic Marc (Marcus) comes to your home, work or roadside: diagnostics, brakes, batteries, alternators, AC, suspension and pre-purchase inspections. Rated 4.7 on Google. Call (832) 305-2630.">
+<meta name="theme-color" content="#0c0e11">
+<meta property="og:title" content="DO IT RIGHT Mobile Auto Mechanic · We come to you">
+<meta property="og:description" content="Houston mobile auto repair at your location. Up-front quotes, book online, call (832) 305-2630.">
+<link rel="icon" href="">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"AutoRepair","name":"DO IT RIGHT Mobile Auto Mechanic","telephone":"+1-832-305-2630","areaServed":"Houston, TX and surrounding areas","priceRange":"$$","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":"229"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"09:00","closes":"14:00"}],"sameAs":["https://www.instagram.com/best_mobile_mechanic/"]}
+</script>
+<style>
+:root{--bg:#0c0e11;--bg2:#13161b;--card:#181c22;--line:#262b33;--ink:#f3f4f6;--mute:#a3abb7;--acc:#ff4a4a;--acc2:#b3121b;--accb:#d91f26;--star:#ffb81c;--ok:#3ddc97;--r:18px;--disp:"Barlow Condensed","Oswald",Impact,sans-serif;--body:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 var(--body);-webkit-font-smoothing:antialiased}
+a{color:inherit}img{max-width:100%;display:block}
+.wrap{width:min(1160px,100% - 40px);margin-inline:auto}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.55em;border:0;border-radius:999px;padding:.95em 1.5em;font:700 1rem/1 var(--body);text-decoration:none;cursor:pointer;transition:transform .15s,box-shadow .15s,background .15s}
+.btn:active{transform:scale(.98)}
+.btn-acc{background:var(--accb);color:#fff;box-shadow:0 10px 30px -10px rgba(217,31,38,.75)}
+.btn-acc:hover{background:#ef2b33}
+.btn-ghost{background:rgba(255,255,255,.06);color:var(--ink);border:1px solid var(--line)}
+.btn-ghost:hover{background:rgba(255,255,255,.1)}
+.btn-xl{font-size:1.15rem;padding:1.1em 1.9em}
+.btn svg{width:1.15em;height:1.15em}
+.eyebrow{font:700 .78rem/1 var(--body);letter-spacing:.16em;text-transform:uppercase;color:var(--acc)}
+h1,h2,h3{font-family:var(--disp);text-transform:uppercase;letter-spacing:.01em;line-height:.95;margin:0}
+h2{font-size:clamp(2.3rem,5vw,3.6rem)}
+.sub{color:var(--mute);max-width:60ch}
+section{padding:84px 0}
+.sec-head{display:flex;flex-direction:column;gap:14px;margin-bottom:36px}
+/* header */
+header{position:sticky;top:0;z-index:40;background:rgba(12,14,17,.82);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:68px;gap:16px}
+.brand{display:flex;align-items:center;gap:12px;text-decoration:none}
+.brand img{width:44px;height:44px;border-radius:50%;object-fit:cover;background:#fff}
+.brand b{font:800 1.35rem/1 var(--disp);text-transform:uppercase;letter-spacing:.02em}
+.brand small{display:block;font:600 .68rem/1.2 var(--body);letter-spacing:.14em;text-transform:uppercase;color:var(--mute)}
+.links{display:flex;gap:26px;font-weight:600;font-size:.92rem}
+.links a{text-decoration:none;color:var(--mute)}.links a:hover{color:var(--ink)}
+.nav .btn{padding:.7em 1.1em;font-size:.92rem}
+@media(max-width:900px){.links{display:none}}
+@media(max-width:520px){.nav .call-txt{display:none}.brand small{display:none}}
+/* hero */
+.hero{position:relative;padding:72px 0 64px;overflow:hidden}
+.hero:before{content:"";position:absolute;inset:-20% -10% auto auto;width:780px;height:780px;background:radial-gradient(circle at center,rgba(255,74,74,.22),transparent 60%);pointer-events:none}
+.hero:after{content:"";position:absolute;inset:0;background:repeating-linear-gradient(135deg,rgba(255,255,255,.018) 0 2px,transparent 2px 14px);pointer-events:none}
+.hero-grid{position:relative;z-index:1;display:grid;grid-template-columns:1.2fr .8fr;gap:48px;align-items:center}
+.hero h1{font-size:clamp(4rem,11vw,8.6rem);line-height:.86;margin:18px 0 22px}
+.hero h1 span{color:var(--acc)}
+.hero .lead{font-size:1.18rem;color:#d4d8de;max-width:34ch;margin:0 0 30px}
+.cta-row{display:flex;flex-wrap:wrap;gap:14px}
+.chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:30px}
+.chip{display:inline-flex;align-items:center;gap:8px;padding:9px 14px;border:1px solid var(--line);border-radius:999px;background:rgba(255,255,255,.03);font-size:.88rem;color:#d6dae0}
+.chip b{color:var(--acc)}
+.badge-card{background:linear-gradient(160deg,#1c2129,#111419);border:1px solid var(--line);border-radius:28px;padding:30px;box-shadow:0 30px 80px -30px rgba(0,0,0,.8);position:relative}
+.logo-round{border-radius:50%;background:#fff;flex:none}.badge-card picture{display:block}.badge-card .logo-big{display:block;width:100%;max-width:300px;height:auto;aspect-ratio:1;margin:0 auto 22px;border-radius:16px;object-fit:contain;background:#fff;box-shadow:0 0 0 6px rgba(255,74,74,.18)}
+.hours{display:grid;grid-template-columns:1fr auto;gap:6px 18px;font-size:.92rem}
+.hours dt{color:var(--mute)}.hours dd{margin:0;font-weight:600}
+.open-now{display:inline-flex;align-items:center;gap:8px;font-weight:700;font-size:.85rem;margin-bottom:12px}
+.dot{width:9px;height:9px;border-radius:50%;background:var(--mute)}.dot.on{background:var(--ok);box-shadow:0 0 0 4px rgba(61,220,151,.18)}
+@media(max-width:900px){.hero-grid{grid-template-columns:1fr}.badge-card{display:grid;grid-template-columns:110px 1fr;gap:18px;align-items:center;padding:20px}.badge-card .logo-big{width:110px;margin:0;border-radius:50%}}
+/* trust strip */
+.trust{border-block:1px solid var(--line);background:var(--bg2);padding:22px 0}
+.trust ul{list-style:none;margin:0 auto;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.trust li{display:flex;gap:12px;align-items:flex-start;font-size:.93rem;color:#cfd4db}
+.trust li svg{flex:none;width:26px;height:26px;color:var(--acc)}
+.trust strong{display:block;color:var(--ink)}
+@media(max-width:900px){.trust ul{grid-template-columns:1fr 1fr}}
+@media(max-width:520px){.trust ul{grid-template-columns:1fr}}
+/* steps */
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;counter-reset:s}
+.step{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:28px;position:relative;overflow:hidden}
+.step:before{counter-increment:s;content:"0" counter(s);position:absolute;right:18px;top:6px;font:800 5rem/1 var(--disp);color:rgba(255,74,74,.12)}
+.step h3{font-size:1.9rem;margin:14px 0 8px}
+.step p{color:var(--mute);margin:0}
+.step .ico{width:46px;height:46px;border-radius:12px;background:rgba(255,74,74,.12);display:grid;place-items:center;color:var(--acc)}
+.step .ico svg{width:24px;height:24px}
+@media(max-width:800px){.steps{grid-template-columns:1fr}}
+/* services */
+.svc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
+.svc{position:relative;display:block;cursor:pointer}
+.svc input{position:absolute;opacity:0;pointer-events:none}
+.svc .box{height:100%;display:flex;flex-direction:column;gap:10px;background:var(--card);border:1.5px solid var(--line);border-radius:16px;padding:18px 18px 16px;transition:border-color .15s,background .15s,transform .15s}
+.svc:hover .box{border-color:#3a414c;transform:translateY(-2px)}
+.svc .box svg{width:30px;height:30px;color:var(--acc)}
+.svc .box b{font:700 1.45rem/1 var(--disp);text-transform:uppercase;letter-spacing:.01em}
+.svc .box span{font-size:.86rem;color:var(--mute)}
+.svc .tick{position:absolute;top:14px;right:14px;width:24px;height:24px;border-radius:50%;border:1.5px solid #3a414c;display:grid;place-items:center;transition:.15s}
+.svc .tick svg{width:14px;height:14px;opacity:0;color:#fff}
+.svc input:checked+.box{border-color:var(--acc);background:linear-gradient(160deg,rgba(255,74,74,.12),rgba(255,74,74,.02) 60%),var(--card)}
+.svc input:checked+.box .tick{background:var(--accb);border-color:var(--accb)}
+.svc input:checked+.box .tick svg{opacity:1}
+.svc input:focus-visible+.box{outline:2px solid var(--acc);outline-offset:3px}
+.pick-bar{position:sticky;bottom:14px;z-index:30;margin-top:22px;display:flex;align-items:center;justify-content:space-between;gap:14px;background:#1d2229;border:1px solid #333a44;border-radius:999px;padding:10px 10px 10px 22px;box-shadow:0 20px 50px -15px rgba(0,0,0,.8)}
+.pick-bar .cnt{font-weight:600;color:#d8dce2;font-size:.95rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pick-bar .btn{padding:.8em 1.3em;flex:none}
+/* booking */
+.book{background:var(--bg2);border-block:1px solid var(--line)}
+.book-grid{display:grid;grid-template-columns:.8fr 1.2fr;gap:44px;align-items:start}
+.side-note{position:sticky;top:96px;display:flex;flex-direction:column;gap:18px}
+.note-card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:22px}
+.note-card h3{font-size:1.5rem;margin-bottom:8px}
+.note-card p,.note-card li{color:var(--mute);font-size:.93rem;margin:0}
+.note-card ul{padding-left:18px;margin:0;display:grid;gap:6px}
+form.intake{background:var(--card);border:1px solid var(--line);border-radius:24px;padding:30px;display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.f{display:flex;flex-direction:column;gap:7px}
+.f.full{grid-column:1/-1}
+.f label,.f legend{font-weight:600;font-size:.88rem;color:#d9dde3}
+.f .hint{font-size:.8rem;color:var(--mute);font-weight:400}
+input[type=text],input[type=tel],input[type=email],input[type=number],input[type=date],select,textarea{width:100%;background:#0f1216;border:1.5px solid #2c323b;border-radius:12px;color:var(--ink);padding:.85em .95em;font:500 1rem var(--body);transition:border-color .15s}
+textarea{min-height:120px;resize:vertical}
+input:focus,select,textarea:focus{outline:none}
+input:focus,select:focus,textarea:focus{border-color:var(--acc)}
+input::placeholder,textarea::placeholder{color:#6b7380}
+select{appearance:none;background-image:linear-gradient(45deg,transparent 50%,#a3abb7 50%),linear-gradient(135deg,#a3abb7 50%,transparent 50%);background-position:calc(100% - 20px) 55%,calc(100% - 14px) 55%;background-size:6px 6px;background-repeat:no-repeat}
+input[type=date]{color-scheme:dark}
+fieldset{border:0;margin:0;padding:0}
+.seg{display:flex;flex-wrap:wrap;gap:8px}
+.seg label{position:relative}
+.seg input{position:absolute;opacity:0}
+.seg span{display:inline-block;padding:.65em 1em;border-radius:999px;border:1.5px solid #2c323b;font-weight:600;font-size:.9rem;cursor:pointer;color:#cfd4db}
+.seg input:checked+span{background:var(--accb);border-color:var(--accb);color:#fff}
+.seg input:focus-visible+span{outline:2px solid var(--acc);outline-offset:2px}
+.picked{display:flex;flex-wrap:wrap;gap:8px;min-height:44px;align-items:center;padding:8px;border:1.5px dashed #2c323b;border-radius:12px}
+.picked .tag{background:rgba(255,74,74,.14);color:var(--acc);border-radius:999px;padding:.35em .8em;font-weight:600;font-size:.85rem}
+.picked .empty{color:#6b7380;font-size:.9rem;padding-left:4px}
+.picked a{color:var(--acc);font-weight:600;font-size:.88rem}
+.drop{border:1.5px dashed #3a414c;border-radius:14px;padding:18px;text-align:center;color:var(--mute);cursor:pointer;transition:.15s}
+.drop:hover{border-color:var(--acc);color:var(--ink)}
+.drop input{display:none}
+.thumbs{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px;justify-content:center}
+.thumbs img{width:64px;height:64px;object-fit:cover;border-radius:10px;border:1px solid var(--line)}
+.form-foot{grid-column:1/-1;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:14px;padding-top:6px}
+.form-foot small{color:var(--mute);max-width:46ch}
+@media(max-width:900px){.book-grid{grid-template-columns:1fr}.side-note{position:static}}
+@media(max-width:600px){form.intake{grid-template-columns:1fr;padding:20px}}
+/* pay */
+.pay-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.pay-card{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:30px;display:flex;flex-direction:column;gap:14px}
+.pay-card h3{font-size:2.1rem}
+.pay-card p{color:var(--mute);margin:0}
+.pay-card .meth{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto;padding-top:8px}
+.pay-card .meth span{font-size:.78rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#cfd4db;border:1px solid var(--line);border-radius:8px;padding:.45em .7em}
+.pay-card .btn{align-self:flex-start}
+.demo-pill{display:inline-flex;align-items:center;gap:6px;font-size:.72rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;background:#2b1212;color:var(--acc);border:1px solid #5a1d1d;border-radius:999px;padding:.4em .8em;align-self:flex-start}
+@media(max-width:800px){.pay-grid{grid-template-columns:1fr}}
+/* reviews */
+.rev-top{display:flex;flex-wrap:wrap;gap:28px;align-items:flex-end;justify-content:space-between;margin-bottom:30px}
+.score{display:flex;align-items:center;gap:18px}
+.score .num{font:800 5rem/.8 var(--disp);color:var(--acc)}
+.stars{color:var(--star);letter-spacing:2px;font-size:1.1rem}
+.score small{display:block;color:var(--mute)}
+.rev-grid{columns:3 300px;column-gap:18px}
+.rev{break-inside:avoid;margin:0 0 18px;background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:22px}
+.rev p{margin:10px 0 14px;color:#dfe2e7}
+.rev footer{display:flex;justify-content:space-between;gap:10px;font-size:.84rem;color:var(--mute)}
+.rev footer b{color:var(--ink)}
+/* area */
+.area-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:24px}
+.map-card{position:relative;min-height:340px;border-radius:24px;overflow:hidden;border:1px solid var(--line);background:radial-gradient(circle at 50% 50%,rgba(255,74,74,.18),transparent 45%),#101318}
+.map-card>svg{position:absolute;inset:0;width:100%;height:100%}
+.map-card .pin svg{display:block;margin:0 auto 8px}
+.map-card .pin{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);text-align:center}
+.map-card .pin b{display:block;font:800 2.6rem/1 var(--disp);text-transform:uppercase}
+.map-card .pin span{color:var(--mute);font-size:.92rem}
+.area-list{background:var(--card);border:1px solid var(--line);border-radius:24px;padding:28px;display:flex;flex-direction:column;gap:16px}
+.area-list ul{margin:0;padding-left:18px;color:#cfd4db;display:grid;gap:6px}
+@media(max-width:800px){.area-grid{grid-template-columns:1fr}}
+/* faq */
+.faq{max-width:860px}
+details{border-bottom:1px solid var(--line);padding:6px 0}
+summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;gap:20px;align-items:center;padding:18px 0;font:700 1.55rem/1.1 var(--disp);text-transform:uppercase;letter-spacing:.01em}
+summary::-webkit-details-marker{display:none}
+summary:after{content:"+";font:400 2rem/1 var(--body);color:var(--acc);transition:transform .2s}
+details[open] summary:after{transform:rotate(45deg)}
+details p{margin:0 0 20px;color:var(--mute);max-width:70ch}
+/* final cta */
+.final{padding:70px 0}
+.final .box{background:linear-gradient(120deg,var(--accb),var(--acc2));color:#fff;border-radius:30px;padding:48px;display:flex;flex-wrap:wrap;gap:24px;align-items:center;justify-content:space-between}
+.final h2{font-size:clamp(2.4rem,6vw,4.6rem)}
+.final .btn-dark{background:#111;color:#fff}
+.final .btn-dark:hover{background:#222}
+.final .btn-line{background:transparent;border:2px solid #fff;color:#fff}
+footer.site{border-top:1px solid var(--line);padding:40px 0 110px;color:var(--mute);font-size:.88rem}
+footer.site .wrap{display:flex;flex-wrap:wrap;gap:24px;justify-content:space-between;align-items:flex-start}
+footer.site .brand img{width:52px;height:52px}
+footer.site a{color:#d6dae0}
+/* mobile call bar */
+.mbar{position:fixed;left:0;right:0;bottom:0;z-index:50;display:none;gap:10px;padding:10px 12px calc(10px + env(safe-area-inset-bottom));background:rgba(12,14,17,.94);backdrop-filter:blur(10px);border-top:1px solid var(--line)}
+.mbar .btn{flex:1;padding:.95em 1em}
+@media(max-width:700px){.mbar{display:flex}.pick-bar{bottom:84px}}
+/* modal */
+.modal{position:fixed;inset:0;z-index:80;display:none;align-items:center;justify-content:center;background:rgba(0,0,0,.7);padding:18px}
+.modal.on{display:flex}
+.sheet{width:min(460px,100%);background:#fff;color:#1a1f26;border-radius:20px;overflow:hidden;box-shadow:0 40px 100px -20px rgba(0,0,0,.8)}
+.sheet .top{background:#f5f6f8;padding:18px 22px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #e6e8ec}
+.sheet .top b{font-weight:700}
+.sheet .test{font-size:.7rem;font-weight:800;letter-spacing:.1em;background:#ffe8b3;color:#7a4b00;border-radius:6px;padding:.35em .6em}
+.sheet .body{padding:22px;display:grid;gap:14px}
+.sheet .amt{font-size:2rem;font-weight:700}
+.sheet .row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.sheet .fake{border:1px solid #d7dbe1;border-radius:10px;padding:.8em;color:#8a929e;font-size:.95rem}
+.sheet .btn{width:100%;background:#9aa3ae;color:#fff;cursor:not-allowed}
+.sheet p{margin:0;font-size:.85rem;color:#5d6673}
+.sheet .x{background:none;border:0;font-size:1.6rem;line-height:1;cursor:pointer;color:#5d6673}
+.sheet label{font-size:.82rem;font-weight:600;color:#3b434e}
+.sheet input{width:100%;border:1px solid #d7dbe1;border-radius:10px;padding:.75em;font:500 1rem var(--body)}
+.done{display:none;grid-column:1/-1;background:#10251b;border:1px solid #1f5b3f;border-radius:16px;padding:20px}
+.done.on{display:block}
+.done h3{font-size:1.8rem;color:var(--ok);margin-bottom:8px}
+.done p{color:#cfe9dc;margin:0 0 14px}
+.done .cta-row .btn{padding:.8em 1.2em}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+<defs>
+<symbol id="i-phone" viewBox="0 0 24 24"><path fill="currentColor" d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1A17 17 0 0 1 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1l-2.3 2.2z"/></symbol>
+<symbol id="i-cal" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1zM8 13h3v3H8z"/></symbol>
+<symbol id="i-check" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" d="M5 12.5l4.5 4.5L19 7.5"/></symbol>
+<symbol id="i-scan" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M4 8V5a1 1 0 0 1 1-1h3M16 4h3a1 1 0 0 1 1 1v3M20 16v3a1 1 0 0 1-1 1h-3M8 20H5a1 1 0 0 1-1-1v-3M8 12h2l1.5-3 2 6 1.5-3h1"/></symbol>
+<symbol id="i-brake" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="2"/><path fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" d="M5.2 7.2A8.5 8.5 0 0 1 9 4"/></symbol>
+<symbol id="i-susp" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M12 2v3M8 5h8M9 8l6 2-6 2 6 2-6 2 6 2M8 19h8M12 19v3"/></symbol>
+<symbol id="i-belt" viewBox="0 0 24 24"><circle cx="7" cy="8" r="3.2" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="17" cy="9" r="2.4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="11" cy="17" r="3.6" fill="none" stroke="currentColor" stroke-width="2"/><path fill="none" stroke="currentColor" stroke-width="1.6" d="M4.2 9.5L7.6 19.8M10 5.2l7-1M19.3 9.6l-5 9.5"/></symbol>
+<symbol id="i-wrench" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M14.7 6.3a4 4 0 0 0 5 5L21 13l-1.4 1.4-2.3-.6-8.6 8.6a2 2 0 0 1-2.8-2.8l8.6-8.6-.6-2.3L13.3 7zM6 18h.01"/></symbol>
+<symbol id="i-bat" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M4 7h16a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1zM7 7V5h3v2M14 7V5h3v2M7 13h3M15.5 11.5v3M14 13h3"/></symbol>
+<symbol id="i-oil" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M12 3s-5 6-5 10a5 5 0 0 0 10 0c0-4-5-10-5-10zM10 14a2 2 0 0 0 2 2"/></symbol>
+<symbol id="i-ac" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M12 2v20M4.2 6.5l15.6 11M19.8 6.5L4.2 17.5M9.5 3.5L12 6l2.5-2.5M9.5 20.5L12 18l2.5 2.5"/></symbol>
+<symbol id="i-engine" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M3 10v6M3 13h2M5 9h3V7h6v2h2l2 2h2v6h-2l-2 2H8l-3-3V9zM10 5h4"/><path fill="currentColor" d="M11 12h2v3h-2z"/></symbol>
+<symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M15.5 15.5L21 21M8 10.5l2 2 3.5-4"/></symbol>
+<symbol id="i-gear" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2" fill="none" stroke="currentColor" stroke-width="2"/><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M12 2.5l1.6 2.6 3-.6.6 3 2.6 1.6-1.5 2.9 1.5 2.9-2.6 1.6-.6 3-3-.6L12 21.5l-1.6-2.6-3 .6-.6-3-2.6-1.6L5.7 12 4.2 9.1l2.6-1.6.6-3 3 .6z"/></symbol>
+<symbol id="i-temp" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M12 3a2 2 0 0 1 2 2v8.5a4 4 0 1 1-4 0V5a2 2 0 0 1 2-2zM12 10v6M17 6h3M17 10h3"/></symbol>
+<symbol id="i-bolt" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M13 2L4 14h7l-1 8 9-12h-7z"/></symbol>
+<symbol id="i-plus" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" d="M12 5v14M5 12h14"/></symbol>
+<symbol id="i-card" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M3 6h18v12H3zM3 10h18M7 15h4"/></symbol>
+<symbol id="i-pin" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M12 22s7-6.5 7-12a7 7 0 0 0-14 0c0 5.5 7 12 7 12z"/><circle cx="12" cy="10" r="2.5" fill="none" stroke="currentColor" stroke-width="2"/></symbol>
+<symbol id="i-van" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M2 16V7a1 1 0 0 1 1-1h11v10M14 9h4l3 4v3h-2M2 16h2M9 16h6"/><circle cx="6.5" cy="16.5" r="2" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="17" cy="16.5" r="2" fill="none" stroke="currentColor" stroke-width="2"/></symbol>
+<symbol id="i-shield" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M8.5 12l2.5 2.5 4.5-5"/></symbol>
+<symbol id="i-tag" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M3 12V4h8l10 10-8 8z"/><circle cx="7.5" cy="8.5" r="1.5" fill="currentColor"/></symbol>
+<symbol id="i-box" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M3 7l9-4 9 4v10l-9 4-9-4zM3 7l9 4 9-4M12 11v10"/></symbol>
+</defs>
+</svg>
+
+<header>
+  <div class="wrap nav">
+    <a class="brand" href="#top" aria-label="DO IT RIGHT Mobile Auto Mechanic home">
+      <img class="logo-round" src="" alt="DO IT RIGHT Mobile Auto Mechanic logo" width="44" height="44">
+      <div><b>Do It Right</b><small>Mobile Auto Mechanic</small></div>
+    </a>
+    <nav class="links" aria-label="Main">
+      <a href="#services">Services</a><a href="#how">How it works</a><a href="#book">Book</a><a href="#pay">Pay</a><a href="#reviews">Reviews</a><a href="#faq">FAQ</a>
+    </nav>
+    <a class="btn btn-acc" href="tel:+18323052630"><svg><use href="#i-phone"/></svg><span class="call-txt">(832) 305-2630</span><span class="sr">Call</span></a>
+  </div>
+</header>
+
+<main id="top">
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <div class="eyebrow">Houston mobile mechanic · 20+ years</div>
+      <h1>We come<br><span>to you.</span></h1>
+      <p class="lead">Your driveway, your job's parking lot, the side of the road. Marc diagnoses it, quotes it up front, and fixes it right there.</p>
+      <div class="cta-row">
+        <a class="btn btn-acc btn-xl" href="#services"><svg><use href="#i-cal"/></svg>Book a Visit</a>
+        <a class="btn btn-ghost btn-xl" href="tel:+18323052630"><svg><use href="#i-phone"/></svg>Call (832) 305-2630</a>
+      </div>
+      <div class="chips">
+        <span class="chip"><b>4.7 ★</b> on Google · 200+ reviews</span>
+        <span class="chip">Cards & tap-to-pay</span>
+        <span class="chip">Bring your own parts</span>
+      </div>
+    </div>
+    <aside class="badge-card" aria-label="Hours">
+      <picture><source media="(min-width:901px)" srcset=""><img class="logo-big" src="" alt="DO IT RIGHT Mobile Auto Mechanic logo" width="300" height="300"></picture>
+      <div>
+        <div class="open-now"><span class="dot" id="dot"></span><span id="openTxt">Hours</span></div>
+        <dl class="hours">
+          <dt>Mon – Fri</dt><dd>8 am – 8 pm</dd>
+          <dt>Saturday</dt><dd>9 am – 6 pm</dd>
+          <dt>Sunday</dt><dd>9 am – 2 pm</dd>
+        </dl>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<div class="trust">
+  <ul class="wrap">
+    <li><svg><use href="#i-tag"/></svg><div><strong>Price before work</strong>You see the quote first.</div></li>
+    <li><svg><use href="#i-shield"/></svg><div><strong>No surprise add-ons</strong>Anything extra needs your OK.</div></li>
+    <li><svg><use href="#i-box"/></svg><div><strong>Your parts welcome</strong>Already bought the part? Tell us.</div></li>
+    <li><svg><use href="#i-van"/></svg><div><strong>No tow, no waiting room</strong>Home, work or roadside.</div></li>
+  </ul>
+</div>
+
+<section id="how">
+  <div class="wrap">
+    <div class="sec-head"><div class="eyebrow">How it works</div><h2>Three steps. Zero tow trucks.</h2></div>
+    <div class="steps">
+      <div class="step"><div class="ico"><svg><use href="#i-search"/></svg></div><h3>Pick your services</h3><p>Tap what you need below, or choose "Not sure" and describe the problem. Add a photo of a warning light or leak if you have one.</p></div>
+      <div class="step"><div class="ico"><svg><use href="#i-card"/></svg></div><h3>Pay a small deposit</h3><p>Marc confirms the price and time by text, then a deposit holds your spot. It comes off your final bill.</p></div>
+      <div class="step"><div class="ico"><svg><use href="#i-van"/></svg></div><h3>Marc arrives</h3><p>He comes to your address with the tools, does the job on site, and you pay the balance by card or tap when it's done.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="services" style="padding-top:20px">
+  <div class="wrap">
+    <div class="sec-head"><div class="eyebrow">Step 1 · Services</div><h2>What does your car need?</h2><p class="sub">Pick one or more. Not sure what's wrong? Choose "Not sure / something else" and tell Marc what it's doing.</p></div>
+    <div class="svc-grid" id="svcGrid">
+      <label class="svc"><input type="checkbox" name="svc" value="Diagnostics"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-scan"/></svg><b>Diagnostics</b><span>Engine scan, no-start and noise diagnosis</span></span></label>
+<label class="svc"><input type="checkbox" name="svc" value="Check-engine light"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-engine"/></svg><b>Check-engine light</b><span>Read the code and find the real cause</span></span></label>
+<label class="svc"><input type="checkbox" name="svc" value="Brakes"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-brake"/></svg><b>Brakes</b><span>Pads, rotors and brake service</span></span></label>
+<label class="svc"><input type="checkbox" name="svc" value="Suspension & struts"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-susp"/></svg><b>Suspension & struts</b><span>Struts, shocks and steering</span></span></label>
+<label class="svc"><input type="checkbox" name="svc" value="Tie rods & control arms"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-wrench"/></svg><b>Tie rods & control arms</b><span>Front-end and steering parts</span></span></label>
+<label class="svc"><input type="checkbox" name="svc" value="Belts"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-belt"/></svg><b>Belts</b><span>Serpentine belt and tensioner</span></span></label>
+<label class="svc"><input type="checkbox" name="svc" value="Battery, alternator & starter"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-bat"/></svg><b>Battery, alternator & starter</b><span>Test and replace, on the spot</span></span></label>
+<label class="svc"><input type="checkbox" name="svc" value="Oil change"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-oil"/></svg><b>Oil change</b><span>At your home or work</span></span></label>
+<label class="svc"><input type="checkbox" name="svc" value="AC repair"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-ac"/></svg><b>AC repair</b><span>Not blowing cold? Diagnose and fix</span></span></label>
+<label class="svc"><input type="checkbox" name="svc" value="Cooling system"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-temp"/></svg><b>Cooling system</b><span>Water pump, radiator, overheating</span></span></label>
+<label class="svc"><input type="checkbox" name="svc" value="Electrical"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-bolt"/></svg><b>Electrical</b><span>Wiring, lights and power problems</span></span></label>
+<label class="svc"><input type="checkbox" name="svc" value="Transmission"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-gear"/></svg><b>Transmission</b><span>Shifting problems diagnosed</span></span></label>
+<label class="svc"><input type="checkbox" name="svc" value="Pre-purchase inspection"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-search"/></svg><b>Pre-purchase inspection</b><span>Check a used car before you buy</span></span></label>
+<label class="svc"><input type="checkbox" name="svc" value="Not sure / something else"><span class="box"><span class="tick"><svg><use href="#i-check"/></svg></span><svg><use href="#i-plus"/></svg><b>Not sure / something else</b><span>Describe it and Marc will diagnose</span></span></label>
+    </div>
+    <div class="pick-bar"><span class="cnt" id="pickCnt">No services selected yet</span><a class="btn btn-acc" href="#book">Continue to booking</a></div>
+  </div>
+</section>
+
+<section class="book" id="book">
+  <div class="wrap book-grid">
+    <div class="side-note">
+      <div class="sec-head" style="margin:0"><div class="eyebrow">Step 2 · Book</div><h2>Request your visit</h2><p class="sub">Takes about a minute. Marc texts you back to confirm the price and the time before anything is charged.</p></div>
+      <div class="note-card"><h3>What happens next</h3><ul><li>Marc reviews your request and photos.</li><li>You get an up-front quote by text.</li><li>Pay the deposit to lock in the time.</li><li>He shows up, fixes it, you pay the balance.</li></ul></div>
+      <div class="note-card"><h3>Rather talk?</h3><p style="margin-bottom:12px">Call or text Marc directly.</p><a class="btn btn-ghost" href="tel:+18323052630"><svg><use href="#i-phone"/></svg>(832) 305-2630</a></div>
+    </div>
+
+    <form class="intake" id="intake" novalidate>
+      <div class="f"><label for="name">Your name</label><input id="name" name="name" type="text" autocomplete="name" placeholder="First and last name" required></div>
+      <div class="f"><label for="phone">Mobile number</label><input id="phone" name="phone" type="tel" autocomplete="tel" placeholder="(713) 555-0123" required></div>
+      <div class="f full"><label for="addr">Where's the car? <span class="hint">Address, cross streets or a landmark</span></label><input id="addr" name="location" type="text" autocomplete="street-address" placeholder="Street address, ZIP" required></div>
+      <div class="f"><label for="year">Year</label><select id="year" name="year" required><option value="">Select year</option></select></div>
+      <div class="f"><label for="make">Make</label><input id="make" name="make" type="text" list="makes" placeholder="Nissan" required><datalist id="makes"><option>Chevrolet</option><option>Ford</option><option>Toyota</option><option>Honda</option><option>Nissan</option><option>Hyundai</option><option>Kia</option><option>Dodge</option><option>Ram</option><option>Jeep</option><option>GMC</option><option>Volkswagen</option><option>BMW</option><option>Mercedes-Benz</option><option>Lexus</option><option>Mazda</option><option>Subaru</option><option>Chrysler</option><option>Cadillac</option><option>Buick</option></datalist></div>
+      <div class="f"><label for="model">Model</label><input id="model" name="model" type="text" placeholder="Versa" required></div>
+      <div class="f"><label for="miles">Mileage <span class="hint">Best guess is fine</span></label><input id="miles" name="mileage" type="number" inputmode="numeric" min="0" placeholder="85000"></div>
+      <div class="f full"><label>Services you picked</label><div class="picked" id="picked"><span class="empty">None yet · <a href="#services">choose services</a></span></div><input type="hidden" name="services" id="svcField"></div>
+      <div class="f full"><label for="issue">Describe the issue <span class="hint">Noises, warning lights, when it started</span></label><textarea id="issue" name="issue" placeholder="Car clicks but won't start in the morning. Battery light came on yesterday."></textarea></div>
+      <div class="f full"><label>Photos <span class="hint">Dash lights, leaks, damage (optional)</span></label>
+        <label class="drop" for="photos"><input id="photos" name="photos" type="file" accept="image/*" multiple><strong style="color:var(--ink)">Tap to add photos</strong><br><span style="font-size:.85rem">JPG or PNG from your phone</span><div class="thumbs" id="thumbs"></div></label></div>
+      <div class="f"><label for="date">Preferred date</label><input id="date" name="date" type="date" required></div>
+      <fieldset class="f"><legend>Time window</legend><div class="seg"><label><input type="radio" name="window" value="Morning (8–12)" checked><span>Morning</span></label><label><input type="radio" name="window" value="Afternoon (12–4)"><span>Afternoon</span></label><label><input type="radio" name="window" value="Evening (4–8)"><span>Evening</span></label></div></fieldset>
+      <fieldset class="f full"><legend>Parts</legend><div class="seg"><label><input type="radio" name="parts" value="Marc supplies parts" checked><span>Marc brings the parts</span></label><label><input type="radio" name="parts" value="I have my own parts"><span>I have my own parts</span></label><label><input type="radio" name="parts" value="Not sure"><span>Not sure</span></label></div></fieldset>
+      <div class="form-foot"><small>By sending, you agree Marc may text you about this request. No charge until you approve the quote.</small><button class="btn btn-acc btn-xl" type="submit"><svg><use href="#i-check"/></svg>Send request</button></div>
+      <div class="done" id="done" role="status" aria-live="polite">
+        <h3>Request ready</h3>
+        <p id="doneTxt">Send it to Marc by text or email and he'll reply with a quote and a time.</p>
+        <div class="cta-row"><a class="btn btn-acc" id="smsBtn" href="#"><svg><use href="#i-phone"/></svg>Send by text</a><a class="btn btn-ghost" id="mailBtn" href="#">Send by email</a></div>
+      </div>
+    </form>
+  </div>
+</section>
+
+<section id="pay">
+  <div class="wrap">
+    <div class="sec-head"><div class="eyebrow">Step 3 · Pay</div><h2>Pay online in seconds</h2><p class="sub">Secure card checkout. Apple Pay and Google Pay work too. Marc can also take a tap-to-pay card payment on site.</p></div>
+    <div class="pay-grid">
+      <div class="pay-card"><span class="demo-pill">Demo · no real charge</span><h3>Pay deposit</h3><p>Holds your appointment once Marc confirms your quote. The deposit is credited toward your final bill.</p><button class="btn btn-acc" data-pay="deposit"><svg><use href="#i-card"/></svg>Pay deposit</button><div class="meth"><span>Visa</span><span>Mastercard</span><span>Amex</span><span>Apple Pay</span><span>Google Pay</span></div></div>
+      <div class="pay-card"><span class="demo-pill">Demo · no real charge</span><h3>Pay invoice</h3><p>Got a text or email invoice from Marc? Pay the balance here with the amount on your invoice.</p><button class="btn btn-ghost" data-pay="invoice"><svg><use href="#i-card"/></svg>Pay invoice</button><div class="meth"><span>Card</span><span>Bank (ACH)</span><span>Receipt by email</span></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="reviews" style="background:var(--bg2);border-block:1px solid var(--line)">
+  <div class="wrap">
+    <div class="rev-top">
+      <div class="sec-head" style="margin:0"><div class="eyebrow">Reviews</div><h2>Houston says<br>he does it right</h2></div>
+      <div class="score"><div class="num">4.7</div><div><div class="stars">★★★★★</div><small>Google rating · 200+ reviews</small></div></div>
+    </div>
+    <div class="rev-grid">
+      <figure class="rev"><div class="stars">★★★★★</div><p>“Took my car to the dealership where they had my vehicle for over 2wks. They finally called me and wanted to charge $1,000 just to open the transmission. I declined such robbery and called Marc instead. Marc CAME TO MY HOUSE and was able to diagnose, and repair my car in less than 24hours.”</p><footer><b>Chelle J.</b><span>Google · May 2025</span></footer></figure>
+<figure class="rev"><div class="stars">★★★★★</div><p>“Water pump went out on me and put down my only car, called after 6pm on a Friday and they were out within a hour and had it fixed in 30 mins. Great price and speedy service.”</p><footer><b>Layton K.</b><span>Google · Jun 2025</span></footer></figure>
+<figure class="rev"><div class="stars">★★★★★</div><p>“I called for a same-day Pre-Purchase Inspection, and he was able to come out quickly and kept in constant communication throughout the entire process. His inspection was extremely detailed, thorough, and easy to understand.”</p><footer><b>Rosita O.</b><span>Google & Yelp · Dec 2025</span></footer></figure>
+<figure class="rev"><div class="stars">★★★★★</div><p>“He will come straight to you to fix your car and tells you straight up what need to be done. He even stayed late to do a repair late in the night when the issue became more complicated than originally anticipated.”</p><footer><b>Bryan L.</b><span>Google · Feb 2025</span></footer></figure>
+<figure class="rev"><div class="stars">★★★★★</div><p>“Guys know their stuff and will get your car back running in a timely fashion. He diagnosed some other things also that I didn&#x27;t even know I needed.”</p><footer><b>T. D.</b><span>Yelp · Jan 2026</span></footer></figure>
+<figure class="rev"><div class="stars">★★★★★</div><p>“Mark is a excellent mechanic, he change my rotors and brake pads for my 2013 Ram 1500 and we was very honest about what I really need for my truck.”</p><footer><b>Daniel S.</b><span>Yelp · Sep 2021</span></footer></figure>
+    </div>
+  </div>
+</section>
+
+<section id="area">
+  <div class="wrap">
+    <div class="sec-head"><div class="eyebrow">Service area</div><h2>Houston & surrounding areas</h2></div>
+    <div class="area-grid">
+      <div class="map-card" aria-hidden="true">
+        <svg viewBox="0 0 600 340" preserveAspectRatio="xMidYMid slice"><g fill="none" stroke="#2a3038" stroke-width="2"><circle cx="300" cy="170" r="60"/><circle cx="300" cy="170" r="115" stroke-dasharray="4 8"/><circle cx="300" cy="170" r="175" stroke-dasharray="2 10"/><path d="M0 170h600M300 0v340M60 40l480 260M60 300L540 40" stroke="#1f242b" stroke-width="6"/><path d="M90 170a210 120 0 1 0 420 0a210 120 0 1 0-420 0" stroke="#3a2224" stroke-width="5"/></g></svg>
+        <div class="pin"><svg width="38" height="38" style="color:var(--acc)"><use href="#i-pin"/></svg><b>Houston, TX</b><span>Home · work · roadside</span></div>
+      </div>
+      <div class="area-list">
+        <h3 style="font-size:1.9rem">Is my spot covered?</h3>
+        <p class="sub" style="margin:0">Marc serves Houston and the surrounding areas. Put your address in the booking form and he'll confirm before you pay anything.</p>
+        <ul><li>Driveways, apartment lots and workplaces</li><li>Roadside breakdowns: call for the fastest answer</li><li>Pre-purchase inspections at the seller's location</li></ul>
+        <a class="btn btn-acc" href="#book" style="align-self:flex-start">Check my address</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="faq" style="padding-top:20px">
+  <div class="wrap">
+    <div class="sec-head"><div class="eyebrow">FAQ</div><h2>Straight answers</h2></div>
+    <div class="faq">
+      <details open><summary>Will the price change once you start?</summary><p>You get the price before work starts. If Marc finds something else, he shows you and explains it, and you decide. Nothing extra is added without your OK, in writing by text.</p></details>
+      <details><summary>Why is there a deposit?</summary><p>A deposit holds your time slot and covers the trip out. It is credited to your final bill, so it's not an extra charge.</p></details>
+      <details><summary>Can I buy my own parts?</summary><p>Yes. Choose "I have my own parts" in the form and include the part name or number so Marc can confirm it fits your exact vehicle before the visit. Warranty on customer-supplied parts comes from the parts seller.</p></details>
+      <details><summary>Is the work guaranteed?</summary><p>Marc stands behind his work. Warranty terms depend on the repair and the parts used, and they're written on your quote before work begins, so you know exactly what's covered.</p></details>
+      <details><summary>What can't be done in a driveway?</summary><p>Most diagnostics, brakes, batteries, alternators, starters, belts, suspension, AC and maintenance can be done on site. If a job truly needs a lift or a shop, Marc tells you up front.</p></details>
+      <details><summary>How do I pay?</summary><p>Credit and debit cards, tap-to-pay on Marc's phone, or the secure online links on this page for deposits and invoices.</p></details>
+    </div>
+  </div>
+</section>
+
+<section class="final">
+  <div class="wrap"><div class="box"><h2>Car acting up?<br>Don't tow it.</h2><div class="cta-row"><a class="btn btn-dark btn-xl" href="#services">Book a Visit</a><a class="btn btn-line btn-xl" href="tel:+18323052630">Call now</a></div></div></div>
+</section>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <div style="display:flex;gap:14px;align-items:center"><img class="logo-round" src="" alt="" width="56" height="56"><div><b style="color:var(--ink);font:800 1.3rem/1 var(--disp);text-transform:uppercase">DO IT RIGHT Mobile Auto Mechanic</b><br>Mobile auto repair · Houston, TX & surrounding areas</div></div>
+    <div><a href="tel:+18323052630">(832) 305-2630</a><br><a href="https://www.instagram.com/best_mobile_mechanic/" rel="noopener" target="_blank">Instagram @best_mobile_mechanic</a></div>
+    <div>Mon–Fri 8a–8p · Sat 9a–6p · Sun 9a–2p<br><span style="font-size:.8rem">Preview site by Clyde · (832) 930-1707. Payment buttons are demos and charge nothing.</span></div>
+  </div>
+</footer>
+
+<div class="mbar"><a class="btn btn-ghost" href="tel:+18323052630"><svg><use href="#i-phone"/></svg>Call</a><a class="btn btn-acc" href="#services"><svg><use href="#i-cal"/></svg>Book a Visit</a></div>
+
+<div class="modal" id="payModal" role="dialog" aria-modal="true" aria-labelledby="payTitle">
+  <div class="sheet">
+    <div class="top"><b id="payTitle">DO IT RIGHT Mobile Auto Mechanic</b><span class="test">DEMO · TEST MODE</span><button class="x" id="payClose" aria-label="Close">×</button></div>
+    <div class="body">
+      <div><div style="font-size:.85rem;color:#5d6673" id="payWhat">Appointment deposit</div><div class="amt" id="payAmt">Deposit</div></div>
+      <div id="invRow" style="display:none"><label for="invNo">Invoice number</label><input id="invNo" placeholder="From your text or email"></div>
+      <div class="fake">Card number</div>
+      <div class="row"><div class="fake">MM / YY</div><div class="fake">CVC</div></div>
+      <button class="btn" disabled>Pay · Demo</button>
+      <p>This is a preview of the checkout. In the live site this button opens Marc's secure Square (or Stripe) checkout page, and the money goes straight to his account. No card is collected and nothing is charged here.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ===== Live setup: fill these in when Marc approves (see README.md) ===== */
+const CONFIG={
+  FORM_ENDPOINT:"",          // e.g. https://formspree.io/f/xxxxxxx  (empty = text/email hand-off)
+  DEPOSIT_LINK:"",           // Square payment link (square.link/u/...) or Stripe Payment Link (buy.stripe.com/...)
+  INVOICE_LINK:"",           // Square payment link with "allow buyer to enter amount" (or Stripe "customer chooses what to pay")
+  SMS_TO:"+18323052630",
+  EMAIL_TO:"doitrightmobile@gmail.com"
+};
+/* open now (Houston time) */
+(function(){const p=new Intl.DateTimeFormat('en-US',{timeZone:'America/Chicago',weekday:'short',hour:'numeric',hour12:false}).formatToParts(new Date());const d=p.find(x=>x.type==='weekday').value,h=+p.find(x=>x.type==='hour').value%24;const hrs={Sun:[9,14],Sat:[9,18]}[d]||[8,20];const on=h>=hrs[0]&&h<hrs[1];document.getElementById('dot').classList.toggle('on',on);document.getElementById('openTxt').textContent=on?'Open now':'Closed now · book online anytime';})();
+/* years */
+(function(){const s=document.getElementById('year');const y=new Date().getFullYear()+1;for(let i=y;i>=1990;i--){const o=document.createElement('option');o.textContent=i;s.appendChild(o)}const o=document.createElement('option');o.textContent='Older than 1990';s.appendChild(o);const d=document.getElementById('date');const t=new Date();d.min=t.toISOString().slice(0,10)})();
+/* service picker */
+const boxes=[...document.querySelectorAll('#svcGrid input')];
+function syncPicked(){const sel=boxes.filter(b=>b.checked).map(b=>b.value);const c=document.getElementById('pickCnt');c.textContent=sel.length?`${sel.length} selected: ${sel.join(', ')}`:'No services selected yet';const p=document.getElementById('picked');p.innerHTML=sel.length?sel.map(s=>`<span class="tag">${s}</span>`).join('')+' <a href="#services">edit</a>':'<span class="empty">None yet · <a href="#services">choose services</a></span>';document.getElementById('svcField').value=sel.join(', ')}
+boxes.forEach(b=>b.addEventListener('change',syncPicked));syncPicked();
+/* photo previews */
+document.getElementById('photos').addEventListener('change',e=>{const t=document.getElementById('thumbs');t.innerHTML='';[...e.target.files].slice(0,8).forEach(f=>{const i=document.createElement('img');i.src=URL.createObjectURL(f);i.alt=f.name;t.appendChild(i)})});
+/* submit */
+document.getElementById('intake').addEventListener('submit',async e=>{e.preventDefault();const f=e.target;let ok=true;f.querySelectorAll('[required]').forEach(el=>{const bad=!el.value.trim();el.style.borderColor=bad?'#ff6b6b':'';if(bad)ok=false});if(!ok){f.querySelector('[required][style*="ff6b6b"]').focus();return}
+const fd=new FormData(f);const v=k=>(fd.get(k)||'').toString().trim();const nPhotos=document.getElementById('photos').files.length;
+const msg=`Visit request – DO IT RIGHT\nName: ${v('name')}\nPhone: ${v('phone')}\nLocation: ${v('location')}\nVehicle: ${v('year')} ${v('make')} ${v('model')}${v('mileage')?' · '+v('mileage')+' mi':''}\nServices: ${v('services')||'Not selected'}\nIssue: ${v('issue')||'-'}\nDate: ${v('date')} · ${v('window')}\nParts: ${v('parts')}${nPhotos?`\nPhotos: ${nPhotos} (attaching)`:''}`;
+if(CONFIG.FORM_ENDPOINT){try{const r=await fetch(CONFIG.FORM_ENDPOINT,{method:'POST',body:fd,headers:{Accept:'application/json'}});if(r.ok){document.getElementById('doneTxt').textContent='Sent! Marc will text you a quote and a time.';document.querySelector('#done .cta-row').style.display='none';document.getElementById('done').classList.add('on');f.reset();boxes.forEach(b=>b.checked=false);syncPicked();return}}catch(err){}}
+document.getElementById('smsBtn').href=`sms:${CONFIG.SMS_TO}?&body=${encodeURIComponent(msg)}`;document.getElementById('mailBtn').href=`mailto:${CONFIG.EMAIL_TO}?subject=${encodeURIComponent('Visit request: '+v('year')+' '+v('make')+' '+v('model'))}&body=${encodeURIComponent(msg)}`;
+document.getElementById('doneTxt').textContent=nPhotos?'Tap a button to send it to Marc. Your photos stay on your phone, so attach them in the text or email.':'Tap a button to send it to Marc. He replies with a quote and a time.';const d=document.getElementById('done');d.classList.add('on');d.scrollIntoView({behavior:'smooth',block:'center'})});
+/* payments */
+const modal=document.getElementById('payModal');
+document.querySelectorAll('[data-pay]').forEach(b=>b.addEventListener('click',()=>{const k=b.dataset.pay;const link=k==='deposit'?CONFIG.DEPOSIT_LINK:CONFIG.INVOICE_LINK;if(link){location.href=link;return}document.getElementById('payWhat').textContent=k==='deposit'?'Appointment deposit (credited to your bill)':'Pay an invoice from Marc';document.getElementById('payAmt').textContent=k==='deposit'?'Deposit':'Invoice balance';document.getElementById('invRow').style.display=k==='invoice'?'block':'none';modal.classList.add('on')}));
+document.getElementById('payClose').onclick=()=>modal.classList.remove('on');modal.addEventListener('click',e=>{if(e.target===modal)modal.classList.remove('on')});document.addEventListener('keydown',e=>{if(e.key==='Escape')modal.classList.remove('on')});
+</script>
+</body>
+</html>
